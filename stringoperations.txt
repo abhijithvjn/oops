@@ -1,0 +1,21 @@
+string operations:
+	compare()
+	concat()
+	equals()
+	split()
+	length()
+	replace()
+	compareTo()
+	contains()
+	substring()
+	trim()
+	charAt()
+	
+	message.length()
+	message.toUpperCase()
+	message.indexOf
+	firstname+lastname or firstname.concat(lastname)
+	
+	insert quotes:
+		backslash escape character(\)
+		
